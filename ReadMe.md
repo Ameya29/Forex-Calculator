@@ -8,3 +8,5 @@
 > - Update values on amount change.
 > - Refreshes ***daily***!
 > - Swap functionality.
+
+Live Demo at https://ameya29.github.io/Forex-Calculator/
