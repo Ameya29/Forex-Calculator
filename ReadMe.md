@@ -1,9 +1,9 @@
 # Forex Calculator
-- Select the currency & know the exchange rate
+- Select the currency & know the exchange rate.
 
 ## Other Features:
-> - Friendly UI
-> - Select 2 currencies & input the amount
+> - Friendly UI.
+> - Select 2 currencies & input the amount.
 > - Fetches rates from API [https://api.exchangerate-api.com/]
 > - Updates values on amount change.
 > - Refreshes ***daily***!
