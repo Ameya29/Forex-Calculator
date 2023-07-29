@@ -36,3 +36,5 @@ swapbtn.addEventListener('click', ()=>{
 });
 
 calculate();
+
+// https://www.exchangerate-api.com/docs/free
